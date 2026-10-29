@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rui Santos</h1>
-<h3> I'm currently pursuing a Master's degree in Network and Information Systems Engineering at the Faculty of Sciences of the University of Porto (FCUP), having already earned a Bachelor's degree in Computer Science from the same institution. </h3>
+<h3> Holder of a Master's degree in Network and Information Systems Engineering and a Bachelor's degree in Computer Science from the Faculty of Sciences of the University of Porto (FCUP). Throughout my academic journey, I developed a special interest in distributed systems, networking, and security. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rs181&label=Profile%20views&color=0e75b6&style=flat" alt="rs181" /> </p>
 
